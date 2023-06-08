@@ -11,10 +11,8 @@
 - An open-source project
 
 <p align="center">
-
  <img src="/readmeAssets/phone.png" width=100% height=100% />
 </p>
-
 <div align="center">
 
 | **ScreenShot**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  **Gif** |
